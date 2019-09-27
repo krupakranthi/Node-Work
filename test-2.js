@@ -15,5 +15,5 @@ for(var i =0 ;i<srt.length;i++){
 console.log?(res);
 */
 
-//console.log(srt.split("").reverse().join(""));
+console.log(srt.split("").reverse().join(""));
 console.log(srt.split("").reverse().join("").split(" ").reverse().join(" "));
